@@ -3,3 +3,5 @@ i am coming into branch mydev
 add mydev not add file
 delete last line
 test git 2014-11-17
+delete test new test 0.52
+forget delete
